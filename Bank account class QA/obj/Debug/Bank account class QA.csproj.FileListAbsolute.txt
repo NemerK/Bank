@@ -1,0 +1,8 @@
+C:\Users\Nemer\source\repos\Bank account class QA\Bank account class QA\bin\Debug\Bank account class QA.exe.config
+C:\Users\Nemer\source\repos\Bank account class QA\Bank account class QA\bin\Debug\Bank account class QA.exe
+C:\Users\Nemer\source\repos\Bank account class QA\Bank account class QA\bin\Debug\Bank account class QA.pdb
+C:\Users\Nemer\source\repos\Bank account class QA\Bank account class QA\obj\Debug\Bank account class QA.csproj.AssemblyReference.cache
+C:\Users\Nemer\source\repos\Bank account class QA\Bank account class QA\obj\Debug\Bank account class QA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nemer\source\repos\Bank account class QA\Bank account class QA\obj\Debug\Bank account class QA.csproj.CoreCompileInputs.cache
+C:\Users\Nemer\source\repos\Bank account class QA\Bank account class QA\obj\Debug\Bank account class QA.exe
+C:\Users\Nemer\source\repos\Bank account class QA\Bank account class QA\obj\Debug\Bank account class QA.pdb
